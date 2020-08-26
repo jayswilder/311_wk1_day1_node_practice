@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jest": "^24.8.0",
-    "moment": "^2.24.0",
+    "jest": "^24.9.0",
+    "lodash": "^4.17.20",
+    "moment": "^2.27.0",
     "nodemon": "^1.19.1"
   }
 }

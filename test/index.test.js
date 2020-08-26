@@ -1,3 +1,7 @@
+'use strict'
+
+const assert = require('assert');
+
 const { numbers, strings, dates } = require('../src')
 
 describe('Numbers module', () => {
